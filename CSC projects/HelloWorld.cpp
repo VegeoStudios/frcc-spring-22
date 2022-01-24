@@ -3,13 +3,13 @@
 using namespace std;
 
 int main() {
-	cout << setiosflags(ios::fixed) << setprecision(5);
-
 	int myInt;
 	double myDouble;
 	char myChar;
 	string str1;
 	string str2;
+
+	cout << setiosflags(ios::fixed) << setprecision(5);
 
 	cin >> myInt;
 	cin >> myDouble;
@@ -30,7 +30,9 @@ int main() {
 	return 0;
 }
 
-//setw - Sets the width of the outputed string by adding white space
-//       and subtracting the number of characters in the original output
+/*
+setw - Sets the width of the outputed string by adding white space
+       and subtracting the number of characters in the original output
 
-//setprecision - Sets the precision of the output of a double variable
+setprecision - Sets the precision of the output of a double variable
+*/
