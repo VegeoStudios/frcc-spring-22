@@ -120,7 +120,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="HelloWorld.cpp" />
-    <ClCompile Include="ShutTheBox.cpp" />
+    <ClCompile Include="random.cpp" />
+    <ClCompile Include="ShutTheBoxEC.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="shutTheBoxInstructions.txt" />

@@ -2,7 +2,7 @@
 #include <iomanip>
 using namespace std;
 
-int _main() {
+int __main() {
 	int myInt;
 	double myDouble;
 	char myChar;

@@ -18,7 +18,10 @@
     <ClCompile Include="HelloWorld.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="ShutTheBox.cpp">
+    <ClCompile Include="random.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ShutTheBoxEC.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

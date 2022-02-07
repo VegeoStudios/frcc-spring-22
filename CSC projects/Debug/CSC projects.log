@@ -1,3 +1,4 @@
-﻿  ShutTheBox.cpp
-C:\Users\vegeo\Desktop\School\frcc-spring-22\CSC projects\ShutTheBox.cpp(54,21): warning C4018: '<': signed/unsigned mismatch
+﻿  ShutTheBoxEC.cpp
+C:\Users\vegeo\Desktop\School\frcc-spring-22\CSC projects\ShutTheBoxEC.cpp(210,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vegeo\Desktop\School\frcc-spring-22\CSC projects\ShutTheBoxEC.cpp(333,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   CSC projects.vcxproj -> C:\Users\vegeo\Desktop\School\frcc-spring-22\CSC projects\Debug\CSC projects.exe
